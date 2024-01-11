@@ -1,4 +1,4 @@
-# CNN
+# DeepClassify: Enhancing Image Classification with Optimized AlexNet and Strategic Hyperparameter
 CNN Image Classifictaion (AlexNet Deep Learning model)
 
 Utilized the AlexNet Deep Learning model to solve a diverse image dataset with three distinct classes, showcasing proficiency in image classification. Furthermore,
